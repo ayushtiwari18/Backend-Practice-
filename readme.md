@@ -26,10 +26,7 @@ If you would like to contribute to this project, please follow these guidelines:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact [your contact information].
+If you have any questions or need further assistance, please feel free to contact [ayushtiwari102003@gmail.com ].
